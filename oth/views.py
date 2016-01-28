@@ -8,7 +8,7 @@ from django.contrib import messages
 from oth import models
 import requests.packages.urllib3
 requests.packages.urllib3.disable_warnings()
-from facepy import GraphAPI
+# from facepy import GraphAPI
 import datetime
 
 m_level = 1
